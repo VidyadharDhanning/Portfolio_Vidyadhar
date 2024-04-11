@@ -5,6 +5,3 @@
  Run the application:
 
   `git clone https://github.com/Arjunan1234/portfolio.git `
- `cd Django-portfolio `
- `click index.html `
- 
